@@ -1,0 +1,17 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "this is node server for our messager application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vigneshsarvaiya",
+  "license": "ISC",
+  "dependencies": {
+    "index.js": "0.0.3",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {}
+}
